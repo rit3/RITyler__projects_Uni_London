@@ -15,3 +15,7 @@ Research Projects - a) AI and its effect on workforce diversity b) Glaucoma clas
 Data Visualisation - Public perceptions of AI: data collection survey with comparative analysis to an existing database
 
 Social Media and Network Science - analysis of the London transport network
+
+Neural Networks: a) Deep Learning classification using the TensorFlow fashion MNIST dataset b) Cats vs Dogs classification - Design, implement, and evaluate a deep learning models using cats and dogs dataset in Tensorflow. Develop models with and without Transfer Learning
+
+Final Report: Automated Glaucoma Risk Assessment - Deep Learning-Based Optic Disc and Cup Segmentation with CDR
